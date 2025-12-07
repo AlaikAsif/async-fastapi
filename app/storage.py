@@ -3,7 +3,7 @@ In-Memory Storage Implementation to track jobs
 """
 from typing import Dict, Optional
 from datetime import datetime
-import C
+import uuid
 
 
 class JobManager:
